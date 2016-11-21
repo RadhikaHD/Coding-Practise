@@ -1,0 +1,26 @@
+
+-- string streams
+-- maps: searching, inserting, deleting
+-- lists: search, etc
+-- leaks
+-- function objects
+-- cast: dynamic, static, const
+-- sdl examples for projects
+
+1. First one is about string streams. - Done
+
+2. Removing items from a list - done
+
+3. Removing items from a list - done
+
+4. Deleting memory from a vector of vectors to eliminate leaks. - done
+
+5. Write a function object - Done
+
+6. Object Pool - done
+
+7. Draw and update for exploding sprites.
+
+8. Cast - Done
+
+9. Maps
